@@ -13,6 +13,7 @@ algorithm
 allocate
 alt
 api
+apply
 arg
 argument
 arm
@@ -46,6 +47,7 @@ braces
 brackets
 branch
 brave
+buffer
 bug
 build
 bus
@@ -77,6 +79,7 @@ comma
 command
 comment
 commutative
+compare
 compile
 complement
 complementarity
@@ -195,6 +198,7 @@ high
 hotfix
 i
 if
+io
 immutable
 imperative
 infinite
@@ -213,11 +217,13 @@ keyword
 lamp
 language
 learning
+let
 lgtm
 life
 lmao
 local
 lol
+line
 link
 linked
 lint
@@ -264,6 +270,7 @@ page
 pair
 param
 paren
+parse
 pascal
 pattern
 perl
@@ -288,6 +295,7 @@ r
 rails
 react
 record
+reduce
 refactor
 regex
 rest
@@ -307,6 +315,7 @@ senior
 server
 set
 severe
+shadow
 sheet
 shell
 source
@@ -318,6 +327,9 @@ sql
 src
 stack
 statement
+std
+stdin
+stderr
 string
 studio
 style
@@ -332,6 +344,7 @@ terminates
 token
 train
 tree
+trim
 true
 trust
 type
@@ -354,6 +367,7 @@ window
 windows
 works
 workspace
+write
 wtf
 wtfspm
 xml

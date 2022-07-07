@@ -102,6 +102,8 @@ command
 comment
 commutative
 compare
+competition
+compose
 compile
 compiler
 complement
@@ -230,6 +232,7 @@ git
 github
 glitch
 glob
+global
 glue
 go
 goggle
@@ -406,10 +409,12 @@ same
 sass
 scala
 scheme
+scope
 scratch
 script
 search
 segfault
+self
 semantics
 semi
 semicolon
@@ -454,6 +459,7 @@ terminates
 ternary
 test
 theoretical
+this
 thue
 token
 train

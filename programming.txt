@@ -53,6 +53,7 @@ attribute
 autohotkey
 automata
 automated
+avoid
 await
 babel
 back
@@ -76,6 +77,7 @@ bleeding
 block
 body
 boolean
+boring
 borrow
 botch
 box
@@ -135,6 +137,7 @@ color
 comma
 command
 comment
+communication
 commutative
 compare
 competition
@@ -162,6 +165,7 @@ content
 context
 continuous
 control
+counts
 coupled
 critical
 crowdsourcing
@@ -333,7 +337,11 @@ global
 glue
 go
 goggle
+good
+googol
+googolplex
 google
+googleplex
 grammar
 greedy
 grep
@@ -375,6 +383,7 @@ input
 insert
 instance
 int
+intelligent
 intern
 internal
 international
@@ -395,6 +404,7 @@ jquery
 key
 keyboard
 keyword
+kill
 know
 l10n
 lambda
@@ -416,9 +426,11 @@ link
 linked
 lmao
 load
+LOC
 local
 lol
 lox
+license
 line
 link
 linked
@@ -453,6 +465,7 @@ modulo
 mouse
 move
 msg
+murder
 mutable
 mysql
 n00b
@@ -558,6 +571,7 @@ rc
 react
 reactive
 read
+readability
 readwrite
 real
 rebeccapurple
@@ -671,8 +685,10 @@ this
 Thue
 tmp
 to
+todo
 tok
 token
+tools
 trace
 traceback
 traceroute
@@ -683,6 +699,7 @@ transitive
 tree
 trim
 trigger
+trivial
 true
 truthy
 trust

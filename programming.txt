@@ -114,6 +114,8 @@ chain
 chair
 chaos
 char
+child
+children
 chmod
 chomsky
 chore
@@ -379,6 +381,8 @@ inf
 infer
 inference
 infinite
+inherit
+inheritance
 input
 insert
 instance
@@ -521,6 +525,7 @@ pair
 parallelism
 param
 paren
+parent
 Pareto
 Parkinson
 parse

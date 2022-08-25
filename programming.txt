@@ -69,6 +69,7 @@ beta
 bikeshedding
 binary
 bind
+binomial
 bit
 bite
 bitwise
@@ -80,6 +81,7 @@ boolean
 boring
 borrow
 botch
+bound
 box
 braces
 brackets
@@ -179,6 +181,7 @@ curly
 curry
 cygwin
 d
+dangling
 dark
 dart
 data
@@ -221,7 +224,9 @@ discrete
 disjoint
 disjunct
 disjunction
+distinct
 distributed
+distribution
 div
 django
 DNS
@@ -277,8 +282,10 @@ except
 exe
 exec
 exist
+exit
 experience
 exponent
+exponential
 expressiveness
 expression
 extend
@@ -487,6 +494,7 @@ node
 none
 notation
 null
+number
 O
 one
 object
@@ -569,6 +577,7 @@ px
 python
 quadratically
 query
+quit
 r
 race
 rails

@@ -185,6 +185,7 @@ control
 copy
 counts
 coupled
+coupling
 critical
 crowdsourcing
 crpyto
@@ -589,6 +590,8 @@ overhead
 overwrite
 package
 packet
+pad
+padding
 page
 pagination
 pair

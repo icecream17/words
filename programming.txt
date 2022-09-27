@@ -1,6 +1,7 @@
 2fa
 a11y
 about
+abs
 absolute
 abstract
 abstractions
@@ -596,6 +597,7 @@ LOC
 local
 localization
 lock
+log
 logic
 logical
 lol
@@ -946,6 +948,7 @@ system
 tab
 table
 tag
+tan
 task
 TCP
 teaching

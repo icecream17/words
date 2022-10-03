@@ -54,6 +54,7 @@ app
 append
 apply
 approximately
+arbitrary
 arc
 arg
 argument
@@ -62,6 +63,7 @@ arm
 array
 ascii
 assembly
+assert
 associative
 async
 at
@@ -166,6 +168,8 @@ closed
 closing
 closure
 cloud
+cluster
+coalesce
 cocoa
 code
 codes
@@ -178,6 +182,7 @@ color
 comma
 command
 comment
+commonjs
 communication
 commutative
 compare
@@ -203,6 +208,7 @@ config
 conjugate
 consist
 consistency
+console
 const
 constant
 constructor
@@ -286,6 +292,7 @@ devs
 dict
 dictionary
 diff
+directory
 discrete
 disjoint
 disjunct
@@ -307,6 +314,7 @@ doubly
 down
 download
 downtime
+downstream
 dragon
 draw
 driver
@@ -319,6 +327,7 @@ e.g.
 ebnf
 echo
 eclipse
+ecmascript
 editor
 effective
 eight
@@ -400,6 +409,7 @@ fetch
 field
 file
 files
+filesystem
 fill
 find
 finite
@@ -488,6 +498,8 @@ high
 hint
 history
 hotfix
+http
+https
 hypertext
 hyphen
 hyphen-minus
@@ -603,6 +615,8 @@ logical
 lol
 long
 look
+lookahead
+lookbehind
 lookup
 loop
 low
@@ -677,6 +691,7 @@ normal
 not
 notation
 null
+nullish
 number
 nwes
 O
@@ -801,6 +816,7 @@ react
 reactive
 read
 readability
+readline
 readwrite
 real
 rebeccapurple
@@ -826,6 +842,7 @@ reliable
 rend
 render
 repeat
+repl
 replace
 required
 resolve
@@ -853,6 +870,7 @@ run
 rust
 same
 sample
+sandbox
 sass
 save
 scala
@@ -864,6 +882,7 @@ scope
 scratch
 script
 search
+security
 seed
 segfault
 self
@@ -888,6 +907,8 @@ sheet
 shell
 shift
 short
+sign
+signal
 signed
 significand
 simplicity
@@ -967,6 +988,7 @@ the
 theory
 theoretical
 this
+thread
 Thue
 time
 tmp
@@ -995,6 +1017,7 @@ truncate
 truthy
 trust
 tuple
+TTY
 type
 typescript
 typo
@@ -1024,6 +1047,7 @@ use
 user
 UTC
 utils
+V8
 validate
 validation
 value
@@ -1035,9 +1059,11 @@ view
 virtual
 visual
 vital
+VM
 vulnerability
 wait
 warn
+wasi
 wasm
 way
 weak
@@ -1053,6 +1079,7 @@ windows
 with
 within
 work
+worker
 workers
 works
 workspace
@@ -1067,3 +1094,4 @@ xor
 xss
 yaml
 zero
+zlib

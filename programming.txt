@@ -67,6 +67,7 @@ assert
 associative
 async
 at
+atob
 atom
 atomic
 attribute
@@ -86,6 +87,7 @@ backend
 background
 backup
 base
+base64
 bash
 basic
 batch
@@ -116,6 +118,7 @@ brackets
 branch
 brave
 Brooks
+btoa
 buffer
 bug
 build
@@ -146,6 +149,7 @@ category
 categorial
 ceiling
 cf.
+cfg
 chain
 chair
 chaos
@@ -164,6 +168,7 @@ cli
 click
 clock
 clojure
+clone
 closed
 closing
 closure
@@ -226,6 +231,7 @@ conversion
 convert
 conway
 copy
+core
 coroutine
 cos
 cost
@@ -233,6 +239,7 @@ counts
 coupled
 coupling
 cpu
+crate
 critical
 crowdsourcing
 crpyto
@@ -324,6 +331,7 @@ dump
 dynamic
 e
 e.g.
+eagerly
 ebnf
 echo
 eclipse
@@ -419,6 +427,7 @@ fix
 fixed
 fizz
 flag
+flash
 flask
 flat
 fleet
@@ -459,6 +468,7 @@ generic
 get
 git
 github
+gitlab
 glitch
 glob
 global
@@ -552,6 +562,7 @@ interrupt
 intl
 invalidate
 invoke
+io
 iostream
 is
 iso
@@ -589,6 +600,8 @@ lemma
 let
 lexer
 lgtm
+lib
+libc
 library
 license
 life
@@ -693,6 +706,7 @@ notation
 null
 nullish
 number
+nvm
 nwes
 O
 one
@@ -763,6 +777,7 @@ php
 ping
 pipe
 png
+pnpm
 pointer
 poly
 polynomial
@@ -808,9 +823,12 @@ query
 queue
 queued
 quit
+quote
 r
 race
 rails
+rand
+random
 rc
 react
 reactive
@@ -868,6 +886,7 @@ ruby
 rule
 run
 rust
+safety
 same
 sample
 sandbox
@@ -893,12 +912,13 @@ semi-Thue
 semver
 send
 senior
+seq
+sequence
+serde
 server
 set
 settings
 severe
-sequence
-server
 sh
 shadow
 shape
@@ -943,6 +963,7 @@ subset
 sufficient
 superset
 support
+svelte
 swap
 swift
 switch
@@ -962,6 +983,7 @@ studio
 style
 svg
 symbol
+syn
 synchronous
 syntax
 sys
@@ -1029,6 +1051,7 @@ undefined
 underscore
 undocumented
 unicode
+uninitialized
 union
 unique
 unit
@@ -1093,5 +1116,6 @@ xml
 xor
 xss
 yaml
+yarn
 zero
 zlib

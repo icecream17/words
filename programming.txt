@@ -88,6 +88,7 @@ babel
 back
 backend
 background
+backtrace
 backup
 base
 base64
@@ -122,6 +123,7 @@ braces
 brackets
 branch
 brave
+break
 Brooks
 btoa
 buffer
@@ -248,6 +250,7 @@ coupled
 coupling
 cow
 cpu
+crash
 crate
 critical
 crowdsourcing
@@ -286,6 +289,7 @@ delete
 delimit
 delimiter
 delta
+deno
 dense
 dep
 dependency
@@ -312,6 +316,7 @@ dictionary
 diff
 directory
 discrete
+discriminant
 disjoint
 disjunct
 disjunction
@@ -339,7 +344,9 @@ driver
 dry
 duck
 dump
+dyn
 dynamic
+dyno
 e
 e.g.
 eagerly
@@ -380,6 +387,8 @@ env
 environment
 eof
 eol
+eprint
+eprintln
 eq
 equal
 erase
@@ -437,6 +446,7 @@ firewall
 fix
 fixed
 fizz
+fizzbuzz
 flag
 flash
 flask
@@ -463,6 +473,7 @@ framework
 free
 from
 front
+fs
 fun
 function
 functor
@@ -553,6 +564,7 @@ index
 indexed
 industry
 inf
+infallible
 infer
 inference
 infinite
@@ -650,6 +662,7 @@ lookup
 loop
 low
 lox
+ls
 lsp
 lua
 machine
@@ -675,6 +688,8 @@ max
 mdn
 mean
 media
+median
+mem
 memory
 merge
 message
@@ -728,6 +743,7 @@ normal
 not
 notation
 now
+nul
 null
 nullish
 number
@@ -789,6 +805,7 @@ Parkinson
 parse
 partial
 pascal
+path
 pattern
 pcap
 perf
@@ -798,8 +815,10 @@ perms
 permutations
 persistent
 Peter
+phantom
 phished
 php
+pin
 ping
 pipe
 png
@@ -819,6 +838,7 @@ prelude
 principle
 print
 printer
+println
 private
 prng
 probability
@@ -841,6 +861,8 @@ prototype
 proxy
 prune
 pruned
+ptr
+pub
 public
 pull
 punctuation
@@ -997,6 +1019,7 @@ standard
 startup
 state
 statement
+static
 status
 std
 std
@@ -1009,9 +1032,12 @@ string
 studio
 Sturgeon
 style
+su
 subprocess
 subset
+sudo
 sufficient
+super
 superset
 support
 svelte
@@ -1099,6 +1125,7 @@ unique
 unit
 unix
 unpack
+unreachable
 unscopables
 unsigned
 up
@@ -1117,6 +1144,7 @@ validate
 validation
 validity
 value
+var
 variable
 variant
 vector
@@ -1138,6 +1166,7 @@ way
 weak
 web
 what
+where
 while
 white
 whitespace

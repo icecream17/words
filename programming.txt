@@ -64,6 +64,7 @@ arm
 arm64
 array
 ascii
+asm
 assembly
 assert
 associative
@@ -126,6 +127,7 @@ branch
 brave
 break
 Brooks
+bsf
 btoa
 buffer
 bug
@@ -621,6 +623,7 @@ language
 latex
 law
 layers
+lea
 leaf
 learn
 learning

@@ -20,6 +20,7 @@ AES
 affix
 aggregate
 agile
+agnostic
 ajax
 aka
 alert
@@ -82,6 +83,7 @@ authentication
 autohotkey
 automata
 automated
+automorphism
 availablility
 avg
 avoid
@@ -253,6 +255,7 @@ cost
 counts
 coupled
 coupling
+covariant
 cow
 cpu
 crash
@@ -598,6 +601,7 @@ internet
 interrupt
 intl
 invalidate
+invariant
 invoke
 io
 iops
@@ -1166,6 +1170,7 @@ validity
 value
 var
 variable
+variance
 variant
 vector
 version

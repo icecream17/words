@@ -264,6 +264,8 @@ critical
 crowdsourcing
 crpyto
 cs
+css
+css3
 curl
 curly
 curry
@@ -404,8 +406,11 @@ equal
 erase
 err
 error
+es5
+es6
 esc
 escape
+esnext
 Euclidean
 eval
 even
@@ -479,12 +484,14 @@ formalism
 formatting
 forth
 forward
+fp
 frames
 framework
 free
 from
 front
 fs
+ftp
 fun
 function
 functor
@@ -545,6 +552,7 @@ hot
 hotfix
 how
 html
+html5
 http
 https
 hypertext

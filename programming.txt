@@ -1,5 +1,6 @@
 2fa
 a11y
+abort
 about
 abs
 absolute
@@ -59,12 +60,14 @@ arbitrary
 arc
 arch
 arg
+args
 argument
 aria
 arm
 arm64
 array
 ascii
+asinner
 asm
 assembly
 assert
@@ -178,6 +181,7 @@ circle
 circuit
 cla
 class
+clean
 clear
 clever
 cli
@@ -266,6 +270,7 @@ crpyto
 cs
 css
 css3
+cuda
 curl
 curly
 curry
@@ -293,6 +298,7 @@ decrement
 decrypt
 deductive
 deep
+defect
 define
 degredation
 degree
@@ -342,6 +348,7 @@ do
 doc
 docs
 dom
+dos
 dot
 double
 doubly
@@ -353,9 +360,11 @@ dragon
 drain
 draw
 driver
+drop
 dry
 duck
 dump
+duplicate
 dyn
 dynamic
 dyno
@@ -381,6 +390,7 @@ email
 embed
 emplace
 empty
+emscripten
 encapsulation
 enclose
 encode
@@ -413,6 +423,7 @@ escape
 esnext
 Euclidean
 eval
+evaluation
 even
 event
 exact
@@ -449,6 +460,7 @@ family
 far
 feat
 fetch
+ffi
 field
 file
 files
@@ -502,6 +514,7 @@ fuzz
 gamma
 gate
 gateway
+gcc
 gene
 generalize
 generative
@@ -515,6 +528,7 @@ glitch
 glob
 global
 glue
+gnu
 go
 goggle
 good
@@ -624,6 +638,7 @@ ja
 java
 javascript
 jest
+jiffy
 JIT
 join
 jquery
@@ -644,6 +659,7 @@ language
 latex
 law
 layers
+lazy
 lea
 leaf
 leak
@@ -713,6 +729,7 @@ matlab
 max
 mdn
 mean
+mechanism
 media
 median
 mem
@@ -738,6 +755,7 @@ mouse
 mov
 move
 msg
+msvc
 multicast
 murder
 mutable
@@ -773,8 +791,8 @@ nul
 null
 nullish
 number
+nvidia
 nvm
-nwes
 O
 object
 obscure
@@ -841,6 +859,7 @@ permission
 perms
 permutations
 persistent
+personality
 Peter
 phantom
 phished
@@ -848,8 +867,11 @@ php
 pin
 ping
 pipe
+platform
+playground
 png
 pnpm
+poc
 pointer
 poll
 poly
@@ -862,6 +884,7 @@ pow
 pr
 pre
 prelude
+primitive
 principle
 print
 printer
@@ -880,6 +903,7 @@ programming
 progress
 project
 promise
+proof
 property
 props
 protected
@@ -982,6 +1006,7 @@ scheme
 scope
 scratch
 script
+seal
 search
 security
 seed
@@ -1160,6 +1185,7 @@ unpack
 unreachable
 unscopables
 unsigned
+unwinding
 up
 upgrade
 upon
@@ -1181,6 +1207,7 @@ variable
 variance
 variant
 vector
+vendor
 version
 view
 virtual
@@ -1198,6 +1225,7 @@ wasm
 way
 weak
 web
+webpack
 what
 where
 while

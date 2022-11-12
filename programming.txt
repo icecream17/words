@@ -73,6 +73,7 @@ assembly
 assert
 associative
 assume
+ast
 async
 at
 atob
@@ -322,6 +323,7 @@ design
 dest
 destination
 destructure
+desugar
 determinant
 dev
 develop
@@ -560,6 +562,7 @@ help
 hierarchy
 high
 hint
+HIR
 history
 horizontal
 hot
@@ -582,6 +585,7 @@ id
 identifier
 identity
 if
+iframe
 ignore
 immediate
 immutable
@@ -850,6 +854,7 @@ Parkinson
 parse
 partial
 pascal
+pass
 path
 pattern
 pcap
@@ -931,6 +936,7 @@ quote
 r
 race
 rails
+raise
 rand
 random
 rc
@@ -946,6 +952,7 @@ rebeccapurple
 recognizer
 record
 red
+redesign
 reduce
 redundancy
 ref
@@ -1092,6 +1099,7 @@ subprocess
 subset
 sudo
 sufficient
+sugar
 super
 superset
 support
@@ -1253,5 +1261,6 @@ xor
 xss
 yaml
 yarn
+yeet
 zero
 zlib

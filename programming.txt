@@ -195,6 +195,7 @@ closing
 closure
 cloud
 cluster
+cmd
 coalesce
 cocoa
 code
@@ -388,6 +389,7 @@ ellipsis
 else
 elsif
 em
+emacs
 email
 embed
 emplace
@@ -671,6 +673,7 @@ leak
 learn
 learning
 lemma
+less
 let
 lexer
 lgtm
@@ -718,6 +721,7 @@ macro
 main
 maintain
 maintenance
+make
 malloc
 man
 manifest
@@ -748,6 +752,7 @@ microseconds
 min
 mini
 minus
+mkdir
 mod
 mode
 model
@@ -756,6 +761,7 @@ modular
 module
 modulo
 monitor
+more
 mouse
 mov
 move
@@ -909,6 +915,7 @@ programming
 progress
 project
 promise
+prompt
 proof
 property
 props
@@ -988,6 +995,7 @@ reverse
 reversible
 review
 rewrite
+rm
 rng
 rock
 rockstar
@@ -1017,6 +1025,7 @@ script
 seal
 search
 security
+sed
 seed
 segfault
 self
@@ -1218,7 +1227,9 @@ variant
 vector
 vendor
 version
+vi
 view
+vim
 virtual
 visibility
 visual
@@ -1246,6 +1257,7 @@ window
 windows
 with
 within
+word
 work
 worker
 workers
@@ -1264,4 +1276,5 @@ yaml
 yarn
 yeet
 zero
+zip
 zlib

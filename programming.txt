@@ -104,6 +104,7 @@ bash
 basic
 batch
 bean
+bench
 benchmark
 beta
 bidirectional
@@ -486,6 +487,7 @@ flat
 fleet
 float
 floor
+flop
 flow
 flush
 fn
@@ -734,6 +736,7 @@ marker
 markup
 mask
 masked
+massively
 matlab
 max
 mdn
@@ -851,6 +854,7 @@ page
 pagination
 pair
 panic
+parallel
 parallelism
 parallelize
 param
@@ -881,6 +885,7 @@ ping
 pipe
 platform
 playground
+pleasantly
 png
 pnpm
 poc
@@ -1015,6 +1020,7 @@ sass
 saturating
 save
 scala
+scalability
 scalar
 scan
 scanner
@@ -1039,6 +1045,7 @@ senior
 seq
 sequence
 serde
+serial
 server
 set
 settings
@@ -1110,7 +1117,7 @@ subset
 sudo
 sufficient
 sugar
-super
+suf
 superset
 support
 svelte

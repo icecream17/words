@@ -135,7 +135,9 @@ brave
 break
 Brooks
 bsf
+bst
 btoa
+btree
 buffer
 bug
 build
@@ -179,6 +181,7 @@ children
 chmod
 chomsky
 chore
+chunk
 circle
 circuit
 cla
@@ -408,6 +411,7 @@ engineer
 engineering
 enter
 entire
+entry
 enum
 enumerating
 env
@@ -490,7 +494,9 @@ floor
 flop
 flow
 flush
+fmt
 fn
+fold
 folder
 font
 foo
@@ -528,6 +534,7 @@ generative
 generator
 generic
 get
+gid
 git
 github
 gitlab
@@ -562,6 +569,7 @@ haskell
 hat
 head
 header
+heap
 hello
 help
 hierarchy
@@ -569,6 +577,7 @@ high
 hint
 HIR
 history
+hit
 horizontal
 hot
 hotfix
@@ -622,6 +631,7 @@ input
 insert
 inside
 instance
+instant
 int
 intelligent
 interleave
@@ -752,9 +762,11 @@ metaprogramming
 method
 micro
 microseconds
+millis
 min
 mini
 minus
+miss
 mkdir
 mod
 mode
@@ -768,6 +780,7 @@ more
 mouse
 mov
 move
+ms
 msg
 msvc
 multicast
@@ -1067,8 +1080,11 @@ significand
 simd
 simplicity
 sine
+sink
 sitter
 size
+skip
+slice
 slot
 snippets
 so
@@ -1193,6 +1209,7 @@ typescript
 typo
 typography
 UDP
+uid
 unary
 unbelievable
 undefined
@@ -1205,9 +1222,11 @@ uninitialized
 union
 unique
 unit
+universe
 unix
 unpack
 unreachable
+unsafe
 unscopables
 unsigned
 unwinding
@@ -1220,7 +1239,8 @@ uri
 url
 use
 user
-UTC
+utc
+utf
 utils
 V8
 validate
@@ -1251,6 +1271,8 @@ wasi
 wasm
 way
 weak
+weakmap
+weakset
 web
 webpack
 what

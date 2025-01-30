@@ -1,0 +1,25 @@
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  add-words:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5.4.0
+  
+      - name: Update file
+        run: |
+          echo "add ${{ github.event.issue.title }} ${{ github.event.issue.body }}" > in.txt
+          python edit.py
+          rm in.txt
+      
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: add words
+          title: add words
+          branch-suffix: timestamp

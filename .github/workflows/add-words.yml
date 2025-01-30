@@ -16,7 +16,7 @@ jobs:
   
       - name: Update file
         run: |
-          echo "add ${{ github.event.issue.title }} ${{ github.event.issue_comment.body }}" > in.txt
+          echo "add ${{ github.event.issue.title }} ${{ github.event.comment.body }}" > in.txt
           python edit.py
           rm in.txt
       

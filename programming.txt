@@ -1,4 +1,30 @@
+
 2fa
+AES
+Brooks
+CAPEX
+DNS
+Euclidean
+FOUC
+HIR
+I/O
+ICMP
+JIT
+LOC
+O
+OKR
+OPEX
+OSI
+Pareto
+Parkinson
+Peter
+Sturgeon
+TCP
+TTY
+Thue
+UDP
+V8
+VM
 a11y
 abort
 about
@@ -17,7 +43,6 @@ address
 adjust
 ado
 advanced
-AES
 affix
 aggregate
 agile
@@ -136,7 +161,6 @@ brackets
 branch
 brave
 break
-Brooks
 bsf
 bst
 btoa
@@ -162,7 +186,6 @@ camel
 candidate
 canonical
 canvas
-CAPEX
 captured
 cargo
 carry
@@ -354,7 +377,6 @@ distributed
 distribution
 div
 django
-DNS
 do
 doc
 docs
@@ -434,7 +456,6 @@ es6
 esc
 escape
 esnext
-Euclidean
 eval
 evaluation
 even
@@ -512,7 +533,6 @@ formalism
 formatting
 forth
 forward
-FOUC
 fp
 frames
 framework
@@ -579,7 +599,6 @@ help
 hierarchy
 high
 hint
-HIR
 history
 hit
 horizontal
@@ -595,9 +614,7 @@ hyphen
 hyphen-minus
 i
 i.e.
-I/O
 i18n
-ICMP
 icon
 id
 identifier
@@ -662,7 +679,6 @@ java
 javascript
 jest
 jiffy
-JIT
 join
 jquery
 json
@@ -712,7 +728,6 @@ lists
 lite
 lmao
 load
-LOC
 local
 localization
 lock
@@ -824,7 +839,6 @@ nullish
 number
 nvidia
 nvm
-O
 object
 obscure
 observe
@@ -836,7 +850,6 @@ odd
 oddagon
 of
 ok
-OKR
 old
 one
 oop
@@ -844,7 +857,6 @@ oops
 open
 operation
 operator
-OPEX
 ops
 opt
 option
@@ -855,7 +867,6 @@ ordered
 org
 organization
 os
-OSI
 oss
 output
 overflow
@@ -877,8 +888,6 @@ parallelize
 param
 paren
 parent
-Pareto
-Parkinson
 parse
 partial
 pascal
@@ -893,7 +902,6 @@ perms
 permutations
 persistent
 personality
-Peter
 phantom
 phished
 php
@@ -1120,7 +1128,6 @@ statement
 static
 status
 std
-std
 stderr
 stdin
 stem
@@ -1128,16 +1135,15 @@ stop
 stream
 string
 studio
-Sturgeon
 style
 su
 sub
 subprocess
 subset
 sudo
+suf
 sufficient
 sugar
-suf
 superset
 support
 svelte
@@ -1158,7 +1164,6 @@ tag
 take
 tan
 task
-TCP
 teaching
 temp
 template
@@ -1178,7 +1183,6 @@ theory
 this
 thread
 throughput
-Thue
 time
 tmp
 to
@@ -1206,13 +1210,11 @@ true
 truncate
 trust
 truthy
-TTY
 tuple
 type
 typescript
 typo
 typography
-UDP
 uid
 unary
 unbelievable
@@ -1246,7 +1248,6 @@ user
 utc
 utf
 utils
-V8
 validate
 validation
 validity
@@ -1265,7 +1266,6 @@ virtual
 visibility
 visual
 vital
-VM
 vtable
 vulnerability
 wait

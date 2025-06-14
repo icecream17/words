@@ -99,6 +99,8 @@ anyways
 api
 append
 apply
+approval
+approve
 are
 area
 arg
@@ -119,6 +121,7 @@ attempt
 attribute
 autohotkey
 automata
+automatic
 ave
 avoid
 avoiding
@@ -174,6 +177,7 @@ bite
 bitwise
 bleeding
 block
+blue
 body
 boolean
 borrow
@@ -248,6 +252,7 @@ chair
 change
 changes
 changing
+channel
 chaos
 char
 character
@@ -905,6 +910,7 @@ machine
 main
 make
 making
+manual
 many
 map
 mapped
@@ -1035,6 +1041,7 @@ papaya
 papayas
 paradox
 param
+paramaters
 paren
 parse
 particular
@@ -1359,6 +1366,7 @@ stranger
 strangers
 strangest
 stray
+stream
 strength
 strengthen
 strengthening
@@ -1606,6 +1614,7 @@ won't
 word
 words
 work
+workflow
 works
 workspace
 worth

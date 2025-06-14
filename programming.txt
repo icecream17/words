@@ -201,6 +201,7 @@ chair
 channel
 chaos
 char
+character
 check
 child
 children
@@ -275,6 +276,7 @@ containers
 contains
 content
 context
+contexts
 continuous
 contribute
 contributions
@@ -296,6 +298,7 @@ cow
 cpu
 crash
 crate
+credentials
 critical
 crowdsourcing
 crpyto
@@ -477,6 +480,7 @@ exponent
 exponential
 export
 expression
+expressions
 expressiveness
 extend
 extended
@@ -679,6 +683,8 @@ java
 javascript
 jest
 jiffy
+job
+jobs
 join
 jquery
 json
@@ -766,6 +772,8 @@ markup
 mask
 masked
 massively
+match
+matches
 matlab
 max
 mdn
@@ -857,10 +865,12 @@ oops
 open
 operation
 operator
+operators
 ops
 opt
 option
 optional
+options
 or
 order
 ordered
@@ -925,6 +935,8 @@ post
 pow
 pr
 pre
+precedence
+prefix
 prelude
 primitive
 principle
@@ -1072,6 +1084,8 @@ sequence
 serde
 serial
 server
+service
+services
 set
 settings
 severe
@@ -1096,6 +1110,7 @@ sink
 sitter
 size
 skip
+slash
 slice
 slot
 snippets
@@ -1143,6 +1158,7 @@ subset
 sudo
 suf
 sufficient
+suffix
 sugar
 superset
 support
@@ -1266,6 +1282,8 @@ virtual
 visibility
 visual
 vital
+volume
+volumes
 vtable
 vulnerability
 wait
@@ -1286,6 +1304,7 @@ white
 whitespace
 whoa
 width
+wildcard
 window
 windows
 with

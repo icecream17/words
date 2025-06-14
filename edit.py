@@ -11,10 +11,9 @@ if command == "add":
     uniquewords = set(words + oldwords)
     sortedwords = list(uniquewords)
     sortedwords.sort()
-    filetext = "\n".join(sortedwords)
-    file.write(filetext)
+    file.write("\n".join(sortedwords) + "\n")
 elif command == "delete":
     filteredwords = [word for word in oldwords if not word in words]
-    file.write("\n".join(filteredwords))
+    file.write("\n".join(filteredwords) + "\n")
 
 file.close()

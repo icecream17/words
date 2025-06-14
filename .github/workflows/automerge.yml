@@ -38,4 +38,3 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: ""
           MERGE_ERROR_FAIL: "true"
-          MERGE_REQUIRED_APPROVALS: 3

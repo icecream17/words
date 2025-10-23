@@ -899,7 +899,7 @@ parallel
 parallelism
 parallelize
 param
-paramaters
+parameters
 paren
 parent
 parse

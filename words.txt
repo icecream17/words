@@ -1041,7 +1041,7 @@ papaya
 papayas
 paradox
 param
-paramaters
+parameters
 paren
 parse
 particular

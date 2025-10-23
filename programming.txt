@@ -80,6 +80,8 @@ api
 app
 append
 apply
+approval
+approve
 approximately
 arbitrary
 arc
@@ -149,6 +151,7 @@ blame
 bleeding
 blender
 block
+blue
 body
 boolean
 boring
@@ -896,6 +899,7 @@ parallel
 parallelism
 parallelize
 param
+parameters
 paren
 parent
 parse
@@ -1313,6 +1317,7 @@ word
 work
 worker
 workers
+workflow
 works
 workspace
 write

@@ -8,7 +8,7 @@ permissions:
   pull-requests: write
 jobs:
   add-words:
-    if: github.event.issue.title == 'words.txt' || github.event.issue.title == 'programming.txt'
+    if: endsWith(github.event.issue.title, '.txt')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

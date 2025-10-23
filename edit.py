@@ -1,7 +1,7 @@
 def create_file(path):
     try:
         open(path, "x").close()
-    finally:
+    except FileExistsError:
         pass
 
 def read_lines(path):

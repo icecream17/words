@@ -53,6 +53,7 @@ airplanes
 alert
 algorithm
 allocate
+allowlist
 alpha
 alphabet
 alphabetic
@@ -123,6 +124,7 @@ async
 at
 attempt
 attribute
+audit
 autohotkey
 automata
 automatic
@@ -228,6 +230,7 @@ cancel
 cancelled
 cancelling
 cancels
+candidate
 candle
 candles
 cannot
@@ -314,6 +317,7 @@ compile
 compiler
 complement
 complementarity
+complete
 components
 comprehensive
 compress
@@ -331,6 +335,7 @@ conclusion
 conclusions
 concurrent
 condition
+confirmed
 conman
 conmen
 connect
@@ -348,6 +353,7 @@ context
 contradiction
 control
 cook
+copies
 copy
 corruption
 cost
@@ -559,6 +565,7 @@ exist
 experience
 explosion
 exponent
+exposed
 expression
 expressiveness
 extend
@@ -796,6 +803,7 @@ hire
 hired
 hires
 hiring
+historical
 history
 hive
 hives
@@ -860,6 +868,7 @@ intros
 introvert
 introverts
 invert
+invoke
 io
 is
 issue
@@ -942,6 +951,7 @@ lint
 linux
 lisp
 list
+literal
 lithium
 lmao
 local
@@ -1194,6 +1204,7 @@ property
 proposal
 props
 proxy
+public
 pull
 pulled
 puller
@@ -1250,6 +1261,7 @@ raster
 rastering
 ray
 rays
+reachable
 react
 reactive
 read
@@ -1295,6 +1307,7 @@ rest
 reverse
 review
 revise
+revoke
 rewrite
 ribbons
 rise
@@ -1330,9 +1343,12 @@ scanning
 scans
 scarves
 scheme
+scope
 scratch
 script
+scripts
 search
+secrets
 section
 see
 seer
@@ -1419,6 +1435,7 @@ sovereignty
 space
 spaghetti
 special
+specifically
 speed
 sprint
 sprite
@@ -1445,6 +1462,7 @@ stdin
 steel
 still
 stone
+storing
 strain
 strained
 straining
@@ -1508,6 +1526,7 @@ talent
 talented
 talents
 tape
+targeted
 teaching
 telekinesis
 teleportation
@@ -1633,6 +1652,7 @@ undo
 union
 unlock
 unluckiness
+untrusted
 up
 upped
 uri
@@ -1641,6 +1661,7 @@ usages
 use
 user
 using
+validate
 value
 variable
 vast
@@ -1720,10 +1741,12 @@ word
 words
 work
 workflow
+workflows
 works
 workspace
 worth
 write
+writes
 wtf
 wtfspm
 xanadu

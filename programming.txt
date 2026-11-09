@@ -57,6 +57,7 @@ alignment
 all
 alloc
 allocate
+allowlist
 alpha
 alt
 alternate
@@ -108,6 +109,7 @@ atom
 atomic
 attribute
 atty
+audit
 augment
 auth
 authentication
@@ -266,6 +268,7 @@ concat
 concurrent
 condition
 config
+confirmed
 conjugate
 cons
 consist
@@ -288,6 +291,7 @@ control
 conversion
 convert
 conway
+copies
 copy
 core
 coroutine
@@ -482,6 +486,7 @@ explicit
 exponent
 exponential
 export
+exposed
 expression
 expressions
 expressiveness
@@ -735,6 +740,7 @@ lisp
 list
 lists
 lite
+literal
 lmao
 load
 local
@@ -760,6 +766,7 @@ macos
 macro
 main
 maintain
+maintainer
 maintenance
 make
 malloc
@@ -994,6 +1001,7 @@ raise
 rand
 random
 rc
+reachable
 react
 reactive
 read
@@ -1028,10 +1036,12 @@ render
 repeat
 repl
 replace
+request
 required
 resolve
 resource
 rest
+restore
 restructure
 resume
 retry
@@ -1040,6 +1050,7 @@ revelation
 reverse
 reversible
 review
+revoke
 rewrite
 rm
 rng
@@ -1065,12 +1076,16 @@ scalability
 scalar
 scan
 scanner
+scans
 scheme
 scope
 scratch
 script
+scripts
 seal
 search
+secret
+secrets
 security
 sed
 seed
@@ -1151,6 +1166,8 @@ stderr
 stdin
 stem
 stop
+store
+storing
 stream
 string
 studio
@@ -1183,6 +1200,8 @@ table
 tag
 take
 tan
+target
+targeted
 task
 teaching
 temp
@@ -1255,6 +1274,7 @@ unreachable
 unsafe
 unscopables
 unsigned
+untrusted
 unwinding
 up
 upgrade
@@ -1274,6 +1294,7 @@ validity
 value
 var
 variable
+variables
 variance
 variant
 vector
@@ -1318,9 +1339,11 @@ work
 worker
 workers
 workflow
+workflows
 works
 workspace
 write
+writes
 wtf
 wtfspm
 wysiwyg

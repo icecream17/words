@@ -2,7 +2,6 @@
 # - are open
 # - are not draft
 # - pass CI checks
-# - have at least 3 approvals
 name: automerge
 on:
   pull_request:
@@ -15,15 +14,15 @@ on:
       - ready_for_review
       - reopened
       - unlocked
-    paths-ignore:
-      - './.github/workflows/automerge.yml' # don't make it super easy to change this file
+    paths:
+      - '*.txt'
   pull_request_review:
     types:
       - submitted
   check_suite:
     types:
       - completed
-  status: {}
+  status:
 jobs:
   automerge:
     runs-on: ubuntu-latest

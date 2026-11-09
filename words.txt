@@ -286,6 +286,7 @@ cleric
 cli
 click
 clojure
+clone
 close
 closed
 closing
@@ -533,6 +534,7 @@ endif
 enter
 enum
 enumerating
+environment
 eof
 eol
 eq
@@ -977,6 +979,7 @@ machine
 magnets
 maid
 main
+maintainer
 make
 making
 manual
@@ -1304,6 +1307,7 @@ requiring
 requisite
 resolve
 rest
+restore
 reverse
 review
 revise
@@ -1348,6 +1352,7 @@ scratch
 script
 scripts
 search
+secret
 secrets
 section
 see
@@ -1462,6 +1467,7 @@ stdin
 steel
 still
 stone
+store
 storing
 strain
 strained
@@ -1526,6 +1532,7 @@ talent
 talented
 talents
 tape
+target
 targeted
 teaching
 telekinesis
@@ -1664,6 +1671,7 @@ using
 validate
 value
 variable
+variables
 vast
 version
 versus
